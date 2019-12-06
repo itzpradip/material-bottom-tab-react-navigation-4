@@ -6,4 +6,4 @@ You can follow the [YouTube Tutorial Here](https://www.youtube.com/watch?v=jlVCI
 
 ## Sample Screen
 
-
+![Sample Screen](https://raw.githubusercontent.com/itzpradip/material-bottom-tab-react-navigation-4/master/material-bottom-tab-sample.gif)
